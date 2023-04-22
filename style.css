@@ -4,23 +4,22 @@
 
 body {
     padding: 40px;
-    background-color: blue;
+    background-color: rgb(255, 208, 0);
     font-family: sans-serif;
 }
 
 
-h1 {
-    font-size: 54px;
+h4 {
+    font-size: 24px;
     text-transform: uppercase;
-    background-color: blue;
-
+    background-color: rgb(255, 231, 11);
 }
 
 p {
-    margin-top: 20px;
-    padding: 20px 10px;
-    font-size: 48px;
-    background-color: blue;
+    margin-top: 5px;
+    padding: 5px 5px;
+    font-size: 5px;
+    background-color: rgb(255, 231, 11);
 }
 
 .center {
@@ -31,3 +30,7 @@ select {
     float: right;
     height: 42px;
 }
+
+
+h1 {
+    font-size: 24px;
